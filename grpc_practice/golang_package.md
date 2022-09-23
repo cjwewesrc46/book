@@ -6,3 +6,4 @@
 4. 业务水平划分有仓储层 Persistant Object 持久化对象，领域层 Domain Object ,业务层 Business Object，业务模块输出 DTO
 5. 微服务部署 openapi开放网关 \ user center用户中心 \ Distributed File System文件服务中心 \ 业务模块[订单\商品\支付\客服\广告\消息]
 6. CI\CD构建、docker hub私服、helm私服构建
+7. 错误信息处理i18n统一仓库管理错误码和提示信息
